@@ -15,17 +15,18 @@ import requests
 import MySQLdb
 import time
 import sys
+import inspect, os
 
 logger = logging.getLogger("pordedelog")
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(asctime)s - %(name)s - [%(levelname)s] - %(message)s")
 
-handlerFile = RotatingFileHandler("log/serie.log", maxBytes=5e+6, backupCount=5)
+handlerFile = RotatingFileHandler("%s/log/serie.log"  %(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))), maxBytes=5e+6, backupCount=5)
 handlerFile.setFormatter(formatter)
 handlerFile.setLevel(logging.DEBUG)
 logger.addHandler(handlerFile)
 
-handlerFileError = RotatingFileHandler("log/serieError.log", maxBytes=5e+6, backupCount=5)
+handlerFileError = RotatingFileHandler("%s/log/serieError.log"  %(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))), maxBytes=5e+6, backupCount=5)
 handlerFileError.setFormatter(formatter)
 handlerFileError.setLevel(logging.ERROR)
 logger.addHandler(handlerFileError)

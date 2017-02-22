@@ -17,12 +17,13 @@ import MySQLdb
 import time
 import sys
 import re
+import inspect, os
 
 loggerTime = logging.getLogger("timer")
 loggerTime.setLevel(logging.INFO)
 formatterTime = logging.Formatter("%(asctime)s - %(name)s - [%(levelname)s] - %(message)s")
 
-handlerLoggerTimeFile = RotatingFileHandler("log/time.log", maxBytes=5e+6, backupCount=5)
+handlerLoggerTimeFile = RotatingFileHandler("%s/log/time.log" %(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))), maxBytes=5e+6, backupCount=5)
 handlerLoggerTimeFile.setFormatter(formatterTime)
 #handlerLoggerTime.setLevel(logging.DEBUG)
 loggerTime.addHandler(handlerLoggerTimeFile)
@@ -38,12 +39,12 @@ logger = logging.getLogger("launch")
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(asctime)s - %(name)s - [%(levelname)s] - %(message)s")
 
-handlerFile = RotatingFileHandler("log/pordede.log", maxBytes=5e+6, backupCount=5)
+handlerFile = RotatingFileHandler("%s/log/pordede.log" %(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))), maxBytes=5e+6, backupCount=5)
 handlerFile.setFormatter(formatter)
 handlerFile.setLevel(logging.DEBUG)
 logger.addHandler(handlerFile)
 
-handlerFileError = RotatingFileHandler("log/pordedeError.log", maxBytes=5e+6, backupCount=5)
+handlerFileError = RotatingFileHandler("%s/log/pordedeError.log" %(os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))), maxBytes=5e+6, backupCount=5)
 handlerFileError.setFormatter(formatter)
 handlerFileError.setLevel(logging.ERROR)
 logger.addHandler(handlerFileError)
