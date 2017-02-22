@@ -1,6 +1,6 @@
 <h3>class/properties.py</h3>
+Para que funcione correctamente hay que añadir manualmente este archivo <b>class/properties.py</b> y rellenarlo:
 <pre> 
-<br>Para que funcione correctamente hay que añadir manualmente este archivo <b>class/properties.py</b> y rellenarlo:
   class bbdd:
 
       host=""
