@@ -1,0 +1,434 @@
+2017-02-20 12:52:26,582 - pordedelog - [DEBUG] - Hacemos onlylogin
+2017-02-20 12:52:27,118 - pordedelog - [DEBUG] - Login : 200
+2017-02-20 12:55:21,879 - pordedelog - [DEBUG] - Hacemos onlylogin
+2017-02-20 12:55:22,217 - pordedelog - [DEBUG] - Login : 200
+2017-02-20 12:55:22,226 - pordedelog - [INFO] - Borrado de Series
+2017-02-20 12:55:22,950 - pordedelog - [DEBUG] - /serie/chicago-pd
+2017-02-20 12:55:22,957 - pordedelog - [INFO] - Insertando /serie/chicago-pd 
+2017-02-20 12:55:22,958 - pordedelog - [DEBUG] - /serie/the-oa
+2017-02-20 12:55:22,964 - pordedelog - [INFO] - Insertando /serie/the-oa 
+2017-02-20 12:55:22,965 - pordedelog - [DEBUG] - /serie/divorce-2016
+2017-02-20 12:55:22,970 - pordedelog - [INFO] - Insertando /serie/divorce-2016 
+2017-02-20 12:55:22,970 - pordedelog - [DEBUG] - /serie/code-black
+2017-02-20 12:55:22,976 - pordedelog - [INFO] - Insertando /serie/code-black 
+2017-02-20 12:55:22,977 - pordedelog - [DEBUG] - /serie/westworld-1
+2017-02-20 12:55:22,982 - pordedelog - [INFO] - Insertando /serie/westworld-1 
+2017-02-20 12:55:22,982 - pordedelog - [DEBUG] - /serie/the-expanse
+2017-02-20 12:55:22,988 - pordedelog - [INFO] - Insertando /serie/the-expanse 
+2017-02-20 12:55:22,989 - pordedelog - [DEBUG] - /serie/gilmore-girls-a-year-in-the-life
+2017-02-20 12:55:22,993 - pordedelog - [INFO] - Insertando /serie/gilmore-girls-a-year-in-the-life 
+2017-02-20 12:55:22,994 - pordedelog - [DEBUG] - /serie/gilmore-girls
+2017-02-20 12:55:23,000 - pordedelog - [INFO] - Insertando /serie/gilmore-girls 
+2017-02-20 12:55:23,000 - pordedelog - [DEBUG] - /serie/scrotal-recall
+2017-02-20 12:55:23,005 - pordedelog - [INFO] - Insertando /serie/scrotal-recall 
+2017-02-20 12:55:23,005 - pordedelog - [DEBUG] - /serie/pure-genius
+2017-02-20 12:55:23,010 - pordedelog - [INFO] - Insertando /serie/pure-genius 
+2017-02-20 12:55:23,010 - pordedelog - [DEBUG] - /serie/the-crown
+2017-02-20 12:55:23,016 - pordedelog - [INFO] - Insertando /serie/the-crown 
+2017-02-20 12:55:23,016 - pordedelog - [DEBUG] - /serie/marvels-luke-cage-1
+2017-02-20 12:55:23,020 - pordedelog - [INFO] - Insertando /serie/marvels-luke-cage-1 
+2017-02-20 12:55:23,021 - pordedelog - [DEBUG] - /serie/peaky-blinders
+2017-02-20 12:55:23,025 - pordedelog - [INFO] - Insertando /serie/peaky-blinders 
+2017-02-20 12:55:23,025 - pordedelog - [DEBUG] - /serie/royal-pains
+2017-02-20 12:55:23,029 - pordedelog - [INFO] - Insertando /serie/royal-pains 
+2017-02-20 12:55:23,030 - pordedelog - [DEBUG] - /serie/young-&-hungry
+2017-02-20 12:55:23,034 - pordedelog - [INFO] - Insertando /serie/young-&-hungry 
+2017-02-20 12:55:23,034 - pordedelog - [DEBUG] - /serie/marco-polo-2014
+2017-02-20 12:55:23,040 - pordedelog - [INFO] - Insertando /serie/marco-polo-2014 
+2017-02-20 12:55:23,040 - pordedelog - [DEBUG] - /serie/life-in-pieces
+2017-02-20 12:55:23,044 - pordedelog - [INFO] - Insertando /serie/life-in-pieces 
+2017-02-20 12:55:23,044 - pordedelog - [DEBUG] - /serie/grace-and-frankie
+2017-02-20 12:55:23,049 - pordedelog - [INFO] - Insertando /serie/grace-and-frankie 
+2017-02-20 12:55:23,049 - pordedelog - [DEBUG] - /serie/izombie
+2017-02-20 12:55:23,053 - pordedelog - [INFO] - Insertando /serie/izombie 
+2017-02-20 12:55:23,053 - pordedelog - [DEBUG] - /serie/unreal
+2017-02-20 12:55:23,057 - pordedelog - [INFO] - Insertando /serie/unreal 
+2017-02-20 12:55:23,058 - pordedelog - [DEBUG] - /serie/love
+2017-02-20 12:55:23,062 - pordedelog - [INFO] - Insertando /serie/love 
+2017-02-20 12:55:23,062 - pordedelog - [DEBUG] - /serie/poldark-2015
+2017-02-20 12:55:23,068 - pordedelog - [INFO] - Insertando /serie/poldark-2015 
+2017-02-20 12:55:23,068 - pordedelog - [DEBUG] - /serie/narcos
+2017-02-20 12:55:23,072 - pordedelog - [INFO] - Insertando /serie/narcos 
+2017-02-20 12:55:23,072 - pordedelog - [DEBUG] - /serie/z-nation
+2017-02-20 12:55:23,077 - pordedelog - [INFO] - Insertando /serie/z-nation 
+2017-02-20 12:55:23,077 - pordedelog - [DEBUG] - /serie/the-night-shift
+2017-02-20 12:55:23,081 - pordedelog - [INFO] - Insertando /serie/the-night-shift 
+2017-02-20 12:55:23,081 - pordedelog - [DEBUG] - /serie/brooklyn-nine-nine
+2017-02-20 12:55:23,085 - pordedelog - [INFO] - Insertando /serie/brooklyn-nine-nine 
+2017-02-20 12:55:23,086 - pordedelog - [DEBUG] - /serie/mozart-in-the-jungle
+2017-02-20 12:55:23,090 - pordedelog - [INFO] - Insertando /serie/mozart-in-the-jungle 
+2017-02-20 12:55:23,090 - pordedelog - [DEBUG] - /serie/the-middle
+2017-02-20 12:55:23,095 - pordedelog - [INFO] - Insertando /serie/the-middle 
+2017-02-20 12:55:23,096 - pordedelog - [DEBUG] - /serie/catastrophe-2015
+2017-02-20 12:55:23,100 - pordedelog - [INFO] - Insertando /serie/catastrophe-2015 
+2017-02-20 12:55:23,100 - pordedelog - [DEBUG] - /serie/blindspot
+2017-02-20 12:55:23,104 - pordedelog - [INFO] - Insertando /serie/blindspot 
+2017-02-20 12:55:23,104 - pordedelog - [DEBUG] - /serie/the-last-man-on-earth
+2017-02-20 12:55:23,109 - pordedelog - [INFO] - Insertando /serie/the-last-man-on-earth 
+2017-02-20 12:55:23,109 - pordedelog - [DEBUG] - /serie/outlander
+2017-02-20 12:55:23,113 - pordedelog - [INFO] - Insertando /serie/outlander 
+2017-02-20 12:55:23,114 - pordedelog - [DEBUG] - /serie/girls
+2017-02-20 12:55:23,118 - pordedelog - [INFO] - Insertando /serie/girls 
+2017-02-20 12:55:23,118 - pordedelog - [DEBUG] - /tvshow/top-chef-espaÃ±a
+2017-02-20 12:55:23,124 - pordedelog - [INFO] - Insertando /tvshow/top-chef-espaÃ±a 
+2017-02-20 12:55:23,124 - pordedelog - [DEBUG] - /serie/quantico
+2017-02-20 12:55:23,129 - pordedelog - [INFO] - Insertando /serie/quantico 
+2017-02-20 12:55:23,129 - pordedelog - [DEBUG] - /serie/true-detective
+2017-02-20 12:55:23,133 - pordedelog - [INFO] - Insertando /serie/true-detective 
+2017-02-20 12:55:23,134 - pordedelog - [DEBUG] - /serie/ray-donovan
+2017-02-20 12:55:23,138 - pordedelog - [INFO] - Insertando /serie/ray-donovan 
+2017-02-20 12:55:23,138 - pordedelog - [DEBUG] - /serie/criminal-minds
+2017-02-20 12:55:23,144 - pordedelog - [INFO] - Insertando /serie/criminal-minds 
+2017-02-20 12:55:23,144 - pordedelog - [DEBUG] - /serie/new-girl
+2017-02-20 12:55:23,148 - pordedelog - [INFO] - Insertando /serie/new-girl 
+2017-02-20 12:55:23,149 - pordedelog - [DEBUG] - /serie/orange-is-the-new-black
+2017-02-20 12:55:23,153 - pordedelog - [INFO] - Insertando /serie/orange-is-the-new-black 
+2017-02-20 12:55:23,153 - pordedelog - [DEBUG] - /serie/killjoys
+2017-02-20 12:55:23,158 - pordedelog - [INFO] - Insertando /serie/killjoys 
+2017-02-20 12:55:23,159 - pordedelog - [DEBUG] - /serie/mr-robot
+2017-02-20 12:55:23,164 - pordedelog - [INFO] - Insertando /serie/mr-robot 
+2017-02-20 12:55:23,164 - pordedelog - [DEBUG] - /tvshow/masterchef-spain
+2017-02-20 12:55:23,169 - pordedelog - [INFO] - Insertando /tvshow/masterchef-spain 
+2017-02-20 12:55:23,169 - pordedelog - [DEBUG] - /serie/supergirl
+2017-02-20 12:55:23,173 - pordedelog - [INFO] - Insertando /serie/supergirl 
+2017-02-20 12:55:23,174 - pordedelog - [DEBUG] - /serie/silicon-valley
+2017-02-20 12:55:23,178 - pordedelog - [INFO] - Insertando /serie/silicon-valley 
+2017-02-20 12:55:23,178 - pordedelog - [DEBUG] - /serie/black-mirror
+2017-02-20 12:55:23,184 - pordedelog - [INFO] - Insertando /serie/black-mirror 
+2017-02-20 12:55:23,184 - pordedelog - [DEBUG] - /serie/dark-matter
+2017-02-20 12:55:23,188 - pordedelog - [INFO] - Insertando /serie/dark-matter 
+2017-02-20 12:55:23,189 - pordedelog - [DEBUG] - /serie/game-of-thrones
+2017-02-20 12:55:23,193 - pordedelog - [INFO] - Insertando /serie/game-of-thrones 
+2017-02-20 12:55:23,193 - pordedelog - [DEBUG] - /serie/el-ministerio-del-tiempo
+2017-02-20 12:55:23,198 - pordedelog - [INFO] - Insertando /serie/el-ministerio-del-tiempo 
+2017-02-20 12:55:23,198 - pordedelog - [DEBUG] - /serie/daredevil
+2017-02-20 12:55:23,204 - pordedelog - [INFO] - Insertando /serie/daredevil 
+2017-02-20 12:55:23,204 - pordedelog - [DEBUG] - /serie/how-to-get-away-with-murder
+2017-02-20 12:55:23,209 - pordedelog - [INFO] - Insertando /serie/how-to-get-away-with-murder 
+2017-02-20 12:55:23,210 - pordedelog - [DEBUG] - /serie/black-ish
+2017-02-20 12:55:23,214 - pordedelog - [INFO] - Insertando /serie/black-ish 
+2017-02-20 12:55:23,214 - pordedelog - [DEBUG] - /serie/the-mindy-project
+2017-02-20 12:55:23,221 - pordedelog - [INFO] - Insertando /serie/the-mindy-project 
+2017-02-20 12:55:23,222 - pordedelog - [DEBUG] - /serie/sherlock
+2017-02-20 12:55:23,228 - pordedelog - [INFO] - Insertando /serie/sherlock 
+2017-02-20 12:55:23,228 - pordedelog - [DEBUG] - /serie/the-americans-2013
+2017-02-20 12:55:23,233 - pordedelog - [INFO] - Insertando /serie/the-americans-2013 
+2017-02-20 12:55:23,233 - pordedelog - [DEBUG] - /serie/marvels-agents-of-shield
+2017-02-20 12:55:23,247 - pordedelog - [INFO] - Insertando /serie/marvels-agents-of-shield 
+2017-02-20 12:55:23,248 - pordedelog - [DEBUG] - /serie/transparent
+2017-02-20 12:55:23,254 - pordedelog - [INFO] - Insertando /serie/transparent 
+2017-02-20 12:55:23,254 - pordedelog - [DEBUG] - /serie/shameless-us
+2017-02-20 12:55:23,258 - pordedelog - [INFO] - Insertando /serie/shameless-us 
+2017-02-20 12:55:23,258 - pordedelog - [DEBUG] - /serie/halt-and-catch-fire
+2017-02-20 12:55:23,264 - pordedelog - [INFO] - Insertando /serie/halt-and-catch-fire 
+2017-02-20 12:55:23,264 - pordedelog - [DEBUG] - /serie/hannibal
+2017-02-20 12:55:23,269 - pordedelog - [INFO] - Insertando /serie/hannibal 
+2017-02-20 12:55:23,269 - pordedelog - [DEBUG] - /serie/suits
+2017-02-20 12:55:23,274 - pordedelog - [INFO] - Insertando /serie/suits 
+2017-02-20 12:55:23,275 - pordedelog - [DEBUG] - /serie/the-blacklist
+2017-02-20 12:55:23,281 - pordedelog - [INFO] - Insertando /serie/the-blacklist 
+2017-02-20 12:55:23,281 - pordedelog - [DEBUG] - /serie/house-of-cards-us
+2017-02-20 12:55:23,286 - pordedelog - [INFO] - Insertando /serie/house-of-cards-us 
+2017-02-20 12:55:23,286 - pordedelog - [DEBUG] - /serie/the-affair
+2017-02-20 12:55:23,290 - pordedelog - [INFO] - Insertando /serie/the-affair 
+2017-02-20 12:55:23,290 - pordedelog - [DEBUG] - /serie/mom
+2017-02-20 12:55:23,294 - pordedelog - [INFO] - Insertando /serie/mom 
+2017-02-20 12:55:23,294 - pordedelog - [DEBUG] - /serie/fargo
+2017-02-20 12:55:23,301 - pordedelog - [INFO] - Insertando /serie/fargo 
+2017-02-20 12:55:23,302 - pordedelog - [DEBUG] - /serie/homeland
+2017-02-20 12:55:23,306 - pordedelog - [INFO] - Insertando /serie/homeland 
+2017-02-20 12:55:23,306 - pordedelog - [DEBUG] - /serie/modern-family
+2017-02-20 12:55:23,312 - pordedelog - [INFO] - Insertando /serie/modern-family 
+2017-02-20 12:55:23,312 - pordedelog - [DEBUG] - /serie/sons-of-anarchy
+2017-02-20 12:55:23,316 - pordedelog - [INFO] - Insertando /serie/sons-of-anarchy 
+2017-02-20 12:55:23,316 - pordedelog - [DEBUG] - /serie/the-big-bang-theory
+2017-02-20 12:55:23,320 - pordedelog - [INFO] - Insertando /serie/the-big-bang-theory 
+2017-02-20 12:56:25,912 - pordedelog - [DEBUG] - Hacemos onlylogin
+2017-02-20 12:56:26,197 - pordedelog - [DEBUG] - Login : 200
+2017-02-20 12:56:26,206 - pordedelog - [INFO] - Borrado de Series
+2017-02-20 12:56:26,951 - pordedelog - [DEBUG] - /serie/chicago-pd
+2017-02-20 12:56:26,958 - pordedelog - [INFO] - Insertando /serie/chicago-pd 
+2017-02-20 12:56:26,958 - pordedelog - [DEBUG] - /serie/the-oa
+2017-02-20 12:56:26,965 - pordedelog - [INFO] - Insertando /serie/the-oa 
+2017-02-20 12:56:26,965 - pordedelog - [DEBUG] - /serie/divorce-2016
+2017-02-20 12:56:26,969 - pordedelog - [INFO] - Insertando /serie/divorce-2016 
+2017-02-20 12:56:26,969 - pordedelog - [DEBUG] - /serie/code-black
+2017-02-20 12:56:26,973 - pordedelog - [INFO] - Insertando /serie/code-black 
+2017-02-20 12:56:26,973 - pordedelog - [DEBUG] - /serie/westworld-1
+2017-02-20 12:56:26,977 - pordedelog - [INFO] - Insertando /serie/westworld-1 
+2017-02-20 12:56:26,977 - pordedelog - [DEBUG] - /serie/the-expanse
+2017-02-20 12:56:26,981 - pordedelog - [INFO] - Insertando /serie/the-expanse 
+2017-02-20 12:56:26,981 - pordedelog - [DEBUG] - /serie/gilmore-girls-a-year-in-the-life
+2017-02-20 12:56:26,984 - pordedelog - [INFO] - Insertando /serie/gilmore-girls-a-year-in-the-life 
+2017-02-20 12:56:26,984 - pordedelog - [DEBUG] - /serie/gilmore-girls
+2017-02-20 12:56:26,988 - pordedelog - [INFO] - Insertando /serie/gilmore-girls 
+2017-02-20 12:56:26,988 - pordedelog - [DEBUG] - /serie/scrotal-recall
+2017-02-20 12:56:26,992 - pordedelog - [INFO] - Insertando /serie/scrotal-recall 
+2017-02-20 12:56:26,992 - pordedelog - [DEBUG] - /serie/pure-genius
+2017-02-20 12:56:26,996 - pordedelog - [INFO] - Insertando /serie/pure-genius 
+2017-02-20 12:56:26,996 - pordedelog - [DEBUG] - /serie/the-crown
+2017-02-20 12:56:27,000 - pordedelog - [INFO] - Insertando /serie/the-crown 
+2017-02-20 12:56:27,000 - pordedelog - [DEBUG] - /serie/marvels-luke-cage-1
+2017-02-20 12:56:27,004 - pordedelog - [INFO] - Insertando /serie/marvels-luke-cage-1 
+2017-02-20 12:56:27,005 - pordedelog - [DEBUG] - /serie/peaky-blinders
+2017-02-20 12:56:27,008 - pordedelog - [INFO] - Insertando /serie/peaky-blinders 
+2017-02-20 12:56:27,009 - pordedelog - [DEBUG] - /serie/royal-pains
+2017-02-20 12:56:27,012 - pordedelog - [INFO] - Insertando /serie/royal-pains 
+2017-02-20 12:56:27,013 - pordedelog - [DEBUG] - /serie/young-&-hungry
+2017-02-20 12:56:27,016 - pordedelog - [INFO] - Insertando /serie/young-&-hungry 
+2017-02-20 12:56:27,017 - pordedelog - [DEBUG] - /serie/marco-polo-2014
+2017-02-20 12:56:27,021 - pordedelog - [INFO] - Insertando /serie/marco-polo-2014 
+2017-02-20 12:56:27,021 - pordedelog - [DEBUG] - /serie/life-in-pieces
+2017-02-20 12:56:27,025 - pordedelog - [INFO] - Insertando /serie/life-in-pieces 
+2017-02-20 12:56:27,025 - pordedelog - [DEBUG] - /serie/grace-and-frankie
+2017-02-20 12:56:27,029 - pordedelog - [INFO] - Insertando /serie/grace-and-frankie 
+2017-02-20 12:56:27,029 - pordedelog - [DEBUG] - /serie/izombie
+2017-02-20 12:56:27,033 - pordedelog - [INFO] - Insertando /serie/izombie 
+2017-02-20 12:56:27,034 - pordedelog - [DEBUG] - /serie/unreal
+2017-02-20 12:56:27,037 - pordedelog - [INFO] - Insertando /serie/unreal 
+2017-02-20 12:56:27,038 - pordedelog - [DEBUG] - /serie/love
+2017-02-20 12:56:27,042 - pordedelog - [INFO] - Insertando /serie/love 
+2017-02-20 12:56:27,042 - pordedelog - [DEBUG] - /serie/poldark-2015
+2017-02-20 12:56:27,045 - pordedelog - [INFO] - Insertando /serie/poldark-2015 
+2017-02-20 12:56:27,046 - pordedelog - [DEBUG] - /serie/narcos
+2017-02-20 12:56:27,049 - pordedelog - [INFO] - Insertando /serie/narcos 
+2017-02-20 12:56:27,050 - pordedelog - [DEBUG] - /serie/z-nation
+2017-02-20 12:56:27,053 - pordedelog - [INFO] - Insertando /serie/z-nation 
+2017-02-20 12:56:27,054 - pordedelog - [DEBUG] - /serie/the-night-shift
+2017-02-20 12:56:27,058 - pordedelog - [INFO] - Insertando /serie/the-night-shift 
+2017-02-20 12:56:27,058 - pordedelog - [DEBUG] - /serie/brooklyn-nine-nine
+2017-02-20 12:56:27,061 - pordedelog - [INFO] - Insertando /serie/brooklyn-nine-nine 
+2017-02-20 12:56:27,062 - pordedelog - [DEBUG] - /serie/mozart-in-the-jungle
+2017-02-20 12:56:27,065 - pordedelog - [INFO] - Insertando /serie/mozart-in-the-jungle 
+2017-02-20 12:56:27,065 - pordedelog - [DEBUG] - /serie/the-middle
+2017-02-20 12:56:27,070 - pordedelog - [INFO] - Insertando /serie/the-middle 
+2017-02-20 12:56:27,070 - pordedelog - [DEBUG] - /serie/catastrophe-2015
+2017-02-20 12:56:27,074 - pordedelog - [INFO] - Insertando /serie/catastrophe-2015 
+2017-02-20 12:56:27,074 - pordedelog - [DEBUG] - /serie/blindspot
+2017-02-20 12:56:27,078 - pordedelog - [INFO] - Insertando /serie/blindspot 
+2017-02-20 12:56:27,078 - pordedelog - [DEBUG] - /serie/the-last-man-on-earth
+2017-02-20 12:56:27,085 - pordedelog - [INFO] - Insertando /serie/the-last-man-on-earth 
+2017-02-20 12:56:27,085 - pordedelog - [DEBUG] - /serie/outlander
+2017-02-20 12:56:27,089 - pordedelog - [INFO] - Insertando /serie/outlander 
+2017-02-20 12:56:27,089 - pordedelog - [DEBUG] - /serie/girls
+2017-02-20 12:56:27,093 - pordedelog - [INFO] - Insertando /serie/girls 
+2017-02-20 12:56:27,094 - pordedelog - [DEBUG] - /tvshow/top-chef-espaÃ±a
+2017-02-20 12:56:27,098 - pordedelog - [INFO] - Insertando /tvshow/top-chef-espaÃ±a 
+2017-02-20 12:56:27,098 - pordedelog - [DEBUG] - /serie/quantico
+2017-02-20 12:56:27,103 - pordedelog - [INFO] - Insertando /serie/quantico 
+2017-02-20 12:56:27,103 - pordedelog - [DEBUG] - /serie/true-detective
+2017-02-20 12:56:27,109 - pordedelog - [INFO] - Insertando /serie/true-detective 
+2017-02-20 12:56:27,109 - pordedelog - [DEBUG] - /serie/ray-donovan
+2017-02-20 12:56:27,113 - pordedelog - [INFO] - Insertando /serie/ray-donovan 
+2017-02-20 12:56:27,114 - pordedelog - [DEBUG] - /serie/criminal-minds
+2017-02-20 12:56:27,118 - pordedelog - [INFO] - Insertando /serie/criminal-minds 
+2017-02-20 12:56:27,118 - pordedelog - [DEBUG] - /serie/new-girl
+2017-02-20 12:56:27,122 - pordedelog - [INFO] - Insertando /serie/new-girl 
+2017-02-20 12:56:27,122 - pordedelog - [DEBUG] - /serie/orange-is-the-new-black
+2017-02-20 12:56:27,128 - pordedelog - [INFO] - Insertando /serie/orange-is-the-new-black 
+2017-02-20 12:56:27,128 - pordedelog - [DEBUG] - /serie/killjoys
+2017-02-20 12:56:27,132 - pordedelog - [INFO] - Insertando /serie/killjoys 
+2017-02-20 12:56:27,132 - pordedelog - [DEBUG] - /serie/mr-robot
+2017-02-20 12:56:27,136 - pordedelog - [INFO] - Insertando /serie/mr-robot 
+2017-02-20 12:56:27,136 - pordedelog - [DEBUG] - /tvshow/masterchef-spain
+2017-02-20 12:56:27,140 - pordedelog - [INFO] - Insertando /tvshow/masterchef-spain 
+2017-02-20 12:56:27,140 - pordedelog - [DEBUG] - /serie/supergirl
+2017-02-20 12:56:27,144 - pordedelog - [INFO] - Insertando /serie/supergirl 
+2017-02-20 12:56:27,144 - pordedelog - [DEBUG] - /serie/silicon-valley
+2017-02-20 12:56:27,148 - pordedelog - [INFO] - Insertando /serie/silicon-valley 
+2017-02-20 12:56:27,148 - pordedelog - [DEBUG] - /serie/black-mirror
+2017-02-20 12:56:27,152 - pordedelog - [INFO] - Insertando /serie/black-mirror 
+2017-02-20 12:56:27,153 - pordedelog - [DEBUG] - /serie/dark-matter
+2017-02-20 12:56:27,156 - pordedelog - [INFO] - Insertando /serie/dark-matter 
+2017-02-20 12:56:27,157 - pordedelog - [DEBUG] - /serie/game-of-thrones
+2017-02-20 12:56:27,161 - pordedelog - [INFO] - Insertando /serie/game-of-thrones 
+2017-02-20 12:56:27,161 - pordedelog - [DEBUG] - /serie/el-ministerio-del-tiempo
+2017-02-20 12:56:27,165 - pordedelog - [INFO] - Insertando /serie/el-ministerio-del-tiempo 
+2017-02-20 12:56:27,165 - pordedelog - [DEBUG] - /serie/daredevil
+2017-02-20 12:56:27,169 - pordedelog - [INFO] - Insertando /serie/daredevil 
+2017-02-20 12:56:27,169 - pordedelog - [DEBUG] - /serie/how-to-get-away-with-murder
+2017-02-20 12:56:27,173 - pordedelog - [INFO] - Insertando /serie/how-to-get-away-with-murder 
+2017-02-20 12:56:27,173 - pordedelog - [DEBUG] - /serie/black-ish
+2017-02-20 12:56:27,177 - pordedelog - [INFO] - Insertando /serie/black-ish 
+2017-02-20 12:56:27,177 - pordedelog - [DEBUG] - /serie/the-mindy-project
+2017-02-20 12:56:27,181 - pordedelog - [INFO] - Insertando /serie/the-mindy-project 
+2017-02-20 12:56:27,181 - pordedelog - [DEBUG] - /serie/sherlock
+2017-02-20 12:56:27,185 - pordedelog - [INFO] - Insertando /serie/sherlock 
+2017-02-20 12:56:27,186 - pordedelog - [DEBUG] - /serie/the-americans-2013
+2017-02-20 12:56:27,189 - pordedelog - [INFO] - Insertando /serie/the-americans-2013 
+2017-02-20 12:56:27,190 - pordedelog - [DEBUG] - /serie/marvels-agents-of-shield
+2017-02-20 12:56:27,194 - pordedelog - [INFO] - Insertando /serie/marvels-agents-of-shield 
+2017-02-20 12:56:27,194 - pordedelog - [DEBUG] - /serie/transparent
+2017-02-20 12:56:27,198 - pordedelog - [INFO] - Insertando /serie/transparent 
+2017-02-20 12:56:27,198 - pordedelog - [DEBUG] - /serie/shameless-us
+2017-02-20 12:56:27,202 - pordedelog - [INFO] - Insertando /serie/shameless-us 
+2017-02-20 12:56:27,202 - pordedelog - [DEBUG] - /serie/halt-and-catch-fire
+2017-02-20 12:56:27,206 - pordedelog - [INFO] - Insertando /serie/halt-and-catch-fire 
+2017-02-20 12:56:27,206 - pordedelog - [DEBUG] - /serie/hannibal
+2017-02-20 12:56:27,211 - pordedelog - [INFO] - Insertando /serie/hannibal 
+2017-02-20 12:56:27,212 - pordedelog - [DEBUG] - /serie/suits
+2017-02-20 12:56:27,216 - pordedelog - [INFO] - Insertando /serie/suits 
+2017-02-20 12:56:27,216 - pordedelog - [DEBUG] - /serie/the-blacklist
+2017-02-20 12:56:27,220 - pordedelog - [INFO] - Insertando /serie/the-blacklist 
+2017-02-20 12:56:27,220 - pordedelog - [DEBUG] - /serie/house-of-cards-us
+2017-02-20 12:56:27,224 - pordedelog - [INFO] - Insertando /serie/house-of-cards-us 
+2017-02-20 12:56:27,224 - pordedelog - [DEBUG] - /serie/the-affair
+2017-02-20 12:56:27,228 - pordedelog - [INFO] - Insertando /serie/the-affair 
+2017-02-20 12:56:27,228 - pordedelog - [DEBUG] - /serie/mom
+2017-02-20 12:56:27,232 - pordedelog - [INFO] - Insertando /serie/mom 
+2017-02-20 12:56:27,233 - pordedelog - [DEBUG] - /serie/fargo
+2017-02-20 12:56:27,237 - pordedelog - [INFO] - Insertando /serie/fargo 
+2017-02-20 12:56:27,237 - pordedelog - [DEBUG] - /serie/homeland
+2017-02-20 12:56:27,241 - pordedelog - [INFO] - Insertando /serie/homeland 
+2017-02-20 12:56:27,241 - pordedelog - [DEBUG] - /serie/modern-family
+2017-02-20 12:56:27,245 - pordedelog - [INFO] - Insertando /serie/modern-family 
+2017-02-20 12:56:27,246 - pordedelog - [DEBUG] - /serie/sons-of-anarchy
+2017-02-20 12:56:27,249 - pordedelog - [INFO] - Insertando /serie/sons-of-anarchy 
+2017-02-20 12:56:27,249 - pordedelog - [DEBUG] - /serie/the-big-bang-theory
+2017-02-20 12:56:27,253 - pordedelog - [INFO] - Insertando /serie/the-big-bang-theory 
+2017-02-20 12:56:27,253 - pordedelog - [DEBUG] - Borramos los enlaces vistos
+2017-02-20 14:41:00,153 - pordedelog - [DEBUG] - Hacemos onlylogin
+2017-02-20 14:41:00,678 - pordedelog - [DEBUG] - Login : 200
+2017-02-20 14:41:00,698 - pordedelog - [INFO] - Borrado de Series
+2017-02-20 14:41:03,136 - pordedelog - [DEBUG] - /serie/chicago-pd
+2017-02-20 14:41:03,141 - pordedelog - [INFO] - Insertando /serie/chicago-pd 
+2017-02-20 14:41:03,141 - pordedelog - [DEBUG] - /serie/the-oa
+2017-02-20 14:41:03,145 - pordedelog - [INFO] - Insertando /serie/the-oa 
+2017-02-20 14:41:03,146 - pordedelog - [DEBUG] - /serie/divorce-2016
+2017-02-20 14:41:03,149 - pordedelog - [INFO] - Insertando /serie/divorce-2016 
+2017-02-20 14:41:03,150 - pordedelog - [DEBUG] - /serie/code-black
+2017-02-20 14:41:03,153 - pordedelog - [INFO] - Insertando /serie/code-black 
+2017-02-20 14:41:03,153 - pordedelog - [DEBUG] - /serie/westworld-1
+2017-02-20 14:41:03,157 - pordedelog - [INFO] - Insertando /serie/westworld-1 
+2017-02-20 14:41:03,158 - pordedelog - [DEBUG] - /serie/the-expanse
+2017-02-20 14:41:03,161 - pordedelog - [INFO] - Insertando /serie/the-expanse 
+2017-02-20 14:41:03,162 - pordedelog - [DEBUG] - /serie/gilmore-girls-a-year-in-the-life
+2017-02-20 14:41:03,165 - pordedelog - [INFO] - Insertando /serie/gilmore-girls-a-year-in-the-life 
+2017-02-20 14:41:03,166 - pordedelog - [DEBUG] - /serie/gilmore-girls
+2017-02-20 14:41:03,169 - pordedelog - [INFO] - Insertando /serie/gilmore-girls 
+2017-02-20 14:41:03,170 - pordedelog - [DEBUG] - /serie/scrotal-recall
+2017-02-20 14:41:03,173 - pordedelog - [INFO] - Insertando /serie/scrotal-recall 
+2017-02-20 14:41:03,174 - pordedelog - [DEBUG] - /serie/pure-genius
+2017-02-20 14:41:03,177 - pordedelog - [INFO] - Insertando /serie/pure-genius 
+2017-02-20 14:41:03,177 - pordedelog - [DEBUG] - /serie/the-crown
+2017-02-20 14:41:03,181 - pordedelog - [INFO] - Insertando /serie/the-crown 
+2017-02-20 14:41:03,181 - pordedelog - [DEBUG] - /serie/marvels-luke-cage-1
+2017-02-20 14:41:03,185 - pordedelog - [INFO] - Insertando /serie/marvels-luke-cage-1 
+2017-02-20 14:41:03,185 - pordedelog - [DEBUG] - /serie/peaky-blinders
+2017-02-20 14:41:03,189 - pordedelog - [INFO] - Insertando /serie/peaky-blinders 
+2017-02-20 14:41:03,189 - pordedelog - [DEBUG] - /serie/royal-pains
+2017-02-20 14:41:03,193 - pordedelog - [INFO] - Insertando /serie/royal-pains 
+2017-02-20 14:41:03,193 - pordedelog - [DEBUG] - /serie/young-&-hungry
+2017-02-20 14:41:03,196 - pordedelog - [INFO] - Insertando /serie/young-&-hungry 
+2017-02-20 14:41:03,197 - pordedelog - [DEBUG] - /serie/marco-polo-2014
+2017-02-20 14:41:03,201 - pordedelog - [INFO] - Insertando /serie/marco-polo-2014 
+2017-02-20 14:41:03,201 - pordedelog - [DEBUG] - /serie/life-in-pieces
+2017-02-20 14:41:03,205 - pordedelog - [INFO] - Insertando /serie/life-in-pieces 
+2017-02-20 14:41:03,205 - pordedelog - [DEBUG] - /serie/grace-and-frankie
+2017-02-20 14:41:03,209 - pordedelog - [INFO] - Insertando /serie/grace-and-frankie 
+2017-02-20 14:41:03,209 - pordedelog - [DEBUG] - /serie/izombie
+2017-02-20 14:41:03,213 - pordedelog - [INFO] - Insertando /serie/izombie 
+2017-02-20 14:41:03,214 - pordedelog - [DEBUG] - /serie/unreal
+2017-02-20 14:41:03,217 - pordedelog - [INFO] - Insertando /serie/unreal 
+2017-02-20 14:41:03,218 - pordedelog - [DEBUG] - /serie/love
+2017-02-20 14:41:03,221 - pordedelog - [INFO] - Insertando /serie/love 
+2017-02-20 14:41:03,222 - pordedelog - [DEBUG] - /serie/poldark-2015
+2017-02-20 14:41:03,226 - pordedelog - [INFO] - Insertando /serie/poldark-2015 
+2017-02-20 14:41:03,226 - pordedelog - [DEBUG] - /serie/narcos
+2017-02-20 14:41:03,230 - pordedelog - [INFO] - Insertando /serie/narcos 
+2017-02-20 14:41:03,230 - pordedelog - [DEBUG] - /serie/z-nation
+2017-02-20 14:41:03,233 - pordedelog - [INFO] - Insertando /serie/z-nation 
+2017-02-20 14:41:03,234 - pordedelog - [DEBUG] - /serie/the-night-shift
+2017-02-20 14:41:03,238 - pordedelog - [INFO] - Insertando /serie/the-night-shift 
+2017-02-20 14:41:03,238 - pordedelog - [DEBUG] - /serie/brooklyn-nine-nine
+2017-02-20 14:41:03,242 - pordedelog - [INFO] - Insertando /serie/brooklyn-nine-nine 
+2017-02-20 14:41:03,242 - pordedelog - [DEBUG] - /serie/mozart-in-the-jungle
+2017-02-20 14:41:03,246 - pordedelog - [INFO] - Insertando /serie/mozart-in-the-jungle 
+2017-02-20 14:41:03,246 - pordedelog - [DEBUG] - /serie/the-middle
+2017-02-20 14:41:03,252 - pordedelog - [INFO] - Insertando /serie/the-middle 
+2017-02-20 14:41:03,252 - pordedelog - [DEBUG] - /serie/catastrophe-2015
+2017-02-20 14:41:03,256 - pordedelog - [INFO] - Insertando /serie/catastrophe-2015 
+2017-02-20 14:41:03,257 - pordedelog - [DEBUG] - /serie/blindspot
+2017-02-20 14:41:03,260 - pordedelog - [INFO] - Insertando /serie/blindspot 
+2017-02-20 14:41:03,260 - pordedelog - [DEBUG] - /serie/the-last-man-on-earth
+2017-02-20 14:41:03,264 - pordedelog - [INFO] - Insertando /serie/the-last-man-on-earth 
+2017-02-20 14:41:03,264 - pordedelog - [DEBUG] - /serie/outlander
+2017-02-20 14:41:03,268 - pordedelog - [INFO] - Insertando /serie/outlander 
+2017-02-20 14:41:03,268 - pordedelog - [DEBUG] - /serie/girls
+2017-02-20 14:41:03,271 - pordedelog - [INFO] - Insertando /serie/girls 
+2017-02-20 14:41:03,272 - pordedelog - [DEBUG] - /tvshow/top-chef-espaÃ±a
+2017-02-20 14:41:03,275 - pordedelog - [INFO] - Insertando /tvshow/top-chef-espaÃ±a 
+2017-02-20 14:41:03,276 - pordedelog - [DEBUG] - /serie/quantico
+2017-02-20 14:41:03,278 - pordedelog - [INFO] - Insertando /serie/quantico 
+2017-02-20 14:41:03,278 - pordedelog - [DEBUG] - /serie/true-detective
+2017-02-20 14:41:03,282 - pordedelog - [INFO] - Insertando /serie/true-detective 
+2017-02-20 14:41:03,282 - pordedelog - [DEBUG] - /serie/ray-donovan
+2017-02-20 14:41:03,286 - pordedelog - [INFO] - Insertando /serie/ray-donovan 
+2017-02-20 14:41:03,286 - pordedelog - [DEBUG] - /serie/criminal-minds
+2017-02-20 14:41:03,291 - pordedelog - [INFO] - Insertando /serie/criminal-minds 
+2017-02-20 14:41:03,292 - pordedelog - [DEBUG] - /serie/new-girl
+2017-02-20 14:41:03,295 - pordedelog - [INFO] - Insertando /serie/new-girl 
+2017-02-20 14:41:03,296 - pordedelog - [DEBUG] - /serie/orange-is-the-new-black
+2017-02-20 14:41:03,301 - pordedelog - [INFO] - Insertando /serie/orange-is-the-new-black 
+2017-02-20 14:41:03,301 - pordedelog - [DEBUG] - /serie/killjoys
+2017-02-20 14:41:03,305 - pordedelog - [INFO] - Insertando /serie/killjoys 
+2017-02-20 14:41:03,305 - pordedelog - [DEBUG] - /serie/mr-robot
+2017-02-20 14:41:03,309 - pordedelog - [INFO] - Insertando /serie/mr-robot 
+2017-02-20 14:41:03,309 - pordedelog - [DEBUG] - /tvshow/masterchef-spain
+2017-02-20 14:41:03,312 - pordedelog - [INFO] - Insertando /tvshow/masterchef-spain 
+2017-02-20 14:41:03,313 - pordedelog - [DEBUG] - /serie/supergirl
+2017-02-20 14:41:03,315 - pordedelog - [INFO] - Insertando /serie/supergirl 
+2017-02-20 14:41:03,316 - pordedelog - [DEBUG] - /serie/silicon-valley
+2017-02-20 14:41:03,319 - pordedelog - [INFO] - Insertando /serie/silicon-valley 
+2017-02-20 14:41:03,320 - pordedelog - [DEBUG] - /serie/black-mirror
+2017-02-20 14:41:03,323 - pordedelog - [INFO] - Insertando /serie/black-mirror 
+2017-02-20 14:41:03,324 - pordedelog - [DEBUG] - /serie/dark-matter
+2017-02-20 14:41:03,327 - pordedelog - [INFO] - Insertando /serie/dark-matter 
+2017-02-20 14:41:03,328 - pordedelog - [DEBUG] - /serie/game-of-thrones
+2017-02-20 14:41:03,331 - pordedelog - [INFO] - Insertando /serie/game-of-thrones 
+2017-02-20 14:41:03,332 - pordedelog - [DEBUG] - /serie/el-ministerio-del-tiempo
+2017-02-20 14:41:03,334 - pordedelog - [INFO] - Insertando /serie/el-ministerio-del-tiempo 
+2017-02-20 14:41:03,334 - pordedelog - [DEBUG] - /serie/daredevil
+2017-02-20 14:41:03,338 - pordedelog - [INFO] - Insertando /serie/daredevil 
+2017-02-20 14:41:03,338 - pordedelog - [DEBUG] - /serie/how-to-get-away-with-murder
+2017-02-20 14:41:03,344 - pordedelog - [INFO] - Insertando /serie/how-to-get-away-with-murder 
+2017-02-20 14:41:03,344 - pordedelog - [DEBUG] - /serie/black-ish
+2017-02-20 14:41:03,348 - pordedelog - [INFO] - Insertando /serie/black-ish 
+2017-02-20 14:41:03,348 - pordedelog - [DEBUG] - /serie/the-mindy-project
+2017-02-20 14:41:03,352 - pordedelog - [INFO] - Insertando /serie/the-mindy-project 
+2017-02-20 14:41:03,352 - pordedelog - [DEBUG] - /serie/sherlock
+2017-02-20 14:41:03,355 - pordedelog - [INFO] - Insertando /serie/sherlock 
+2017-02-20 14:41:03,356 - pordedelog - [DEBUG] - /serie/the-americans-2013
+2017-02-20 14:41:03,359 - pordedelog - [INFO] - Insertando /serie/the-americans-2013 
+2017-02-20 14:41:03,359 - pordedelog - [DEBUG] - /serie/marvels-agents-of-shield
+2017-02-20 14:41:03,362 - pordedelog - [INFO] - Insertando /serie/marvels-agents-of-shield 
+2017-02-20 14:41:03,362 - pordedelog - [DEBUG] - /serie/transparent
+2017-02-20 14:41:03,365 - pordedelog - [INFO] - Insertando /serie/transparent 
+2017-02-20 14:41:03,366 - pordedelog - [DEBUG] - /serie/shameless-us
+2017-02-20 14:41:03,369 - pordedelog - [INFO] - Insertando /serie/shameless-us 
+2017-02-20 14:41:03,369 - pordedelog - [DEBUG] - /serie/halt-and-catch-fire
+2017-02-20 14:41:03,373 - pordedelog - [INFO] - Insertando /serie/halt-and-catch-fire 
+2017-02-20 14:41:03,373 - pordedelog - [DEBUG] - /serie/hannibal
+2017-02-20 14:41:03,377 - pordedelog - [INFO] - Insertando /serie/hannibal 
+2017-02-20 14:41:03,377 - pordedelog - [DEBUG] - /serie/suits
+2017-02-20 14:41:03,381 - pordedelog - [INFO] - Insertando /serie/suits 
+2017-02-20 14:41:03,381 - pordedelog - [DEBUG] - /serie/the-blacklist
+2017-02-20 14:41:03,385 - pordedelog - [INFO] - Insertando /serie/the-blacklist 
+2017-02-20 14:41:03,385 - pordedelog - [DEBUG] - /serie/house-of-cards-us
+2017-02-20 14:41:03,387 - pordedelog - [INFO] - Insertando /serie/house-of-cards-us 
+2017-02-20 14:41:03,387 - pordedelog - [DEBUG] - /serie/the-affair
+2017-02-20 14:41:03,390 - pordedelog - [INFO] - Insertando /serie/the-affair 
+2017-02-20 14:41:03,390 - pordedelog - [DEBUG] - /serie/mom
+2017-02-20 14:41:03,393 - pordedelog - [INFO] - Insertando /serie/mom 
+2017-02-20 14:41:03,394 - pordedelog - [DEBUG] - /serie/fargo
+2017-02-20 14:41:03,397 - pordedelog - [INFO] - Insertando /serie/fargo 
+2017-02-20 14:41:03,397 - pordedelog - [DEBUG] - /serie/homeland
+2017-02-20 14:41:03,401 - pordedelog - [INFO] - Insertando /serie/homeland 
+2017-02-20 14:41:03,401 - pordedelog - [DEBUG] - /serie/modern-family
+2017-02-20 14:41:03,405 - pordedelog - [INFO] - Insertando /serie/modern-family 
+2017-02-20 14:41:03,405 - pordedelog - [DEBUG] - /serie/sons-of-anarchy
+2017-02-20 14:41:03,409 - pordedelog - [INFO] - Insertando /serie/sons-of-anarchy 
+2017-02-20 14:41:03,409 - pordedelog - [DEBUG] - /serie/the-big-bang-theory
+2017-02-20 14:41:03,413 - pordedelog - [INFO] - Insertando /serie/the-big-bang-theory 
+2017-02-20 14:41:03,413 - pordedelog - [DEBUG] - Borramos los enlaces vistos
+2017-02-20 14:41:03,414 - pordedelog - [INFO] - Borrado de Enlaces

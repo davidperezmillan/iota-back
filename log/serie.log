@@ -1,0 +1,144 @@
+2017-02-21 13:29:20,635 - pordedelog - [DEBUG] - Hacemos onlylogin
+2017-02-21 13:29:21,968 - pordedelog - [DEBUG] - Login : 200
+2017-02-21 13:29:24,063 - pordedelog - [DEBUG] - /serie/legion-1
+2017-02-21 13:29:24,138 - pordedelog - [INFO] - Insertando /serie/legion-1 
+2017-02-21 13:29:24,138 - pordedelog - [DEBUG] - /serie/chicago-pd
+2017-02-21 13:29:24,167 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/chicago-pd' for key 'serie'")
+2017-02-21 13:29:24,221 - pordedelog - [DEBUG] - /serie/the-oa
+2017-02-21 13:29:24,249 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-oa' for key 'serie'")
+2017-02-21 13:29:24,320 - pordedelog - [DEBUG] - /serie/divorce-2016
+2017-02-21 13:29:24,348 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/divorce-2016' for key 'serie'")
+2017-02-21 13:29:24,399 - pordedelog - [DEBUG] - /serie/code-black
+2017-02-21 13:29:24,428 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/code-black' for key 'serie'")
+2017-02-21 13:29:24,480 - pordedelog - [DEBUG] - /serie/westworld-1
+2017-02-21 13:29:24,509 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/westworld-1' for key 'serie'")
+2017-02-21 13:29:24,562 - pordedelog - [DEBUG] - /serie/the-expanse
+2017-02-21 13:29:24,590 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-expanse' for key 'serie'")
+2017-02-21 13:29:24,642 - pordedelog - [DEBUG] - /serie/gilmore-girls-a-year-in-the-life
+2017-02-21 13:29:24,670 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/gilmore-girls-a-year-in-the-life' for key 'serie'")
+2017-02-21 13:29:24,756 - pordedelog - [DEBUG] - /serie/gilmore-girls
+2017-02-21 13:29:24,784 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/gilmore-girls' for key 'serie'")
+2017-02-21 13:29:24,837 - pordedelog - [DEBUG] - /serie/scrotal-recall
+2017-02-21 13:29:24,865 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/scrotal-recall' for key 'serie'")
+2017-02-21 13:29:24,919 - pordedelog - [DEBUG] - /serie/pure-genius
+2017-02-21 13:29:24,947 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/pure-genius' for key 'serie'")
+2017-02-21 13:29:24,999 - pordedelog - [DEBUG] - /serie/the-crown
+2017-02-21 13:29:25,027 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-crown' for key 'serie'")
+2017-02-21 13:29:25,079 - pordedelog - [DEBUG] - /serie/marvels-luke-cage-1
+2017-02-21 13:29:25,107 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/marvels-luke-cage-1' for key 'serie'")
+2017-02-21 13:29:25,161 - pordedelog - [DEBUG] - /serie/peaky-blinders
+2017-02-21 13:29:25,189 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/peaky-blinders' for key 'serie'")
+2017-02-21 13:29:25,240 - pordedelog - [DEBUG] - /serie/royal-pains
+2017-02-21 13:29:25,269 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/royal-pains' for key 'serie'")
+2017-02-21 13:29:25,320 - pordedelog - [DEBUG] - /serie/young-&-hungry
+2017-02-21 13:29:25,348 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/young-&-hungry' for key 'serie'")
+2017-02-21 13:29:25,402 - pordedelog - [DEBUG] - /serie/marco-polo-2014
+2017-02-21 13:29:25,431 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/marco-polo-2014' for key 'serie'")
+2017-02-21 13:29:25,483 - pordedelog - [DEBUG] - /serie/life-in-pieces
+2017-02-21 13:29:25,511 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/life-in-pieces' for key 'serie'")
+2017-02-21 13:29:25,567 - pordedelog - [DEBUG] - /serie/grace-and-frankie
+2017-02-21 13:29:25,596 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/grace-and-frankie' for key 'serie'")
+2017-02-21 13:29:25,647 - pordedelog - [DEBUG] - /serie/izombie
+2017-02-21 13:29:25,676 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/izombie' for key 'serie'")
+2017-02-21 13:29:25,729 - pordedelog - [DEBUG] - /serie/unreal
+2017-02-21 13:29:25,757 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/unreal' for key 'serie'")
+2017-02-21 13:29:25,810 - pordedelog - [DEBUG] - /serie/love
+2017-02-21 13:29:25,838 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/love' for key 'serie'")
+2017-02-21 13:29:25,917 - pordedelog - [DEBUG] - /serie/poldark-2015
+2017-02-21 13:29:25,945 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/poldark-2015' for key 'serie'")
+2017-02-21 13:29:25,997 - pordedelog - [DEBUG] - /serie/narcos
+2017-02-21 13:29:26,025 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/narcos' for key 'serie'")
+2017-02-21 13:29:26,078 - pordedelog - [DEBUG] - /serie/z-nation
+2017-02-21 13:29:26,106 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/z-nation' for key 'serie'")
+2017-02-21 13:29:26,159 - pordedelog - [DEBUG] - /serie/the-night-shift
+2017-02-21 13:29:26,187 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-night-shift' for key 'serie'")
+2017-02-21 13:29:26,243 - pordedelog - [DEBUG] - /serie/brooklyn-nine-nine
+2017-02-21 13:29:26,271 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/brooklyn-nine-nine' for key 'serie'")
+2017-02-21 13:29:26,322 - pordedelog - [DEBUG] - /serie/mozart-in-the-jungle
+2017-02-21 13:29:26,350 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/mozart-in-the-jungle' for key 'serie'")
+2017-02-21 13:29:26,404 - pordedelog - [DEBUG] - /serie/the-middle
+2017-02-21 13:29:26,432 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-middle' for key 'serie'")
+2017-02-21 13:29:26,485 - pordedelog - [DEBUG] - /serie/catastrophe-2015
+2017-02-21 13:29:26,513 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/catastrophe-2015' for key 'serie'")
+2017-02-21 13:29:26,579 - pordedelog - [DEBUG] - /serie/blindspot
+2017-02-21 13:29:26,607 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/blindspot' for key 'serie'")
+2017-02-21 13:29:26,659 - pordedelog - [DEBUG] - /serie/the-last-man-on-earth
+2017-02-21 13:29:26,687 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-last-man-on-earth' for key 'serie'")
+2017-02-21 13:29:26,741 - pordedelog - [DEBUG] - /serie/outlander
+2017-02-21 13:29:26,769 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/outlander' for key 'serie'")
+2017-02-21 13:29:26,822 - pordedelog - [DEBUG] - /serie/girls
+2017-02-21 13:29:26,850 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/girls' for key 'serie'")
+2017-02-21 13:29:26,922 - pordedelog - [DEBUG] - /tvshow/top-chef-espaÃ±a
+2017-02-21 13:29:26,950 - pordedelog - [ERROR] - (1062, "Duplicate entry '/tvshow/top-chef-espa\xc3\xb1a' for key 'serie'")
+2017-02-21 13:29:27,047 - pordedelog - [DEBUG] - /serie/quantico
+2017-02-21 13:29:27,075 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/quantico' for key 'serie'")
+2017-02-21 13:29:27,154 - pordedelog - [DEBUG] - /serie/true-detective
+2017-02-21 13:29:27,182 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/true-detective' for key 'serie'")
+2017-02-21 13:29:27,236 - pordedelog - [DEBUG] - /serie/ray-donovan
+2017-02-21 13:29:27,264 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/ray-donovan' for key 'serie'")
+2017-02-21 13:29:27,316 - pordedelog - [DEBUG] - /serie/criminal-minds
+2017-02-21 13:29:27,344 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/criminal-minds' for key 'serie'")
+2017-02-21 13:29:27,393 - pordedelog - [DEBUG] - /serie/new-girl
+2017-02-21 13:29:27,421 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/new-girl' for key 'serie'")
+2017-02-21 13:29:27,474 - pordedelog - [DEBUG] - /serie/orange-is-the-new-black
+2017-02-21 13:29:27,502 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/orange-is-the-new-black' for key 'serie'")
+2017-02-21 13:29:27,552 - pordedelog - [DEBUG] - /serie/killjoys
+2017-02-21 13:29:27,580 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/killjoys' for key 'serie'")
+2017-02-21 13:29:27,672 - pordedelog - [DEBUG] - /serie/mr-robot
+2017-02-21 13:29:27,700 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/mr-robot' for key 'serie'")
+2017-02-21 13:29:28,156 - pordedelog - [DEBUG] - /tvshow/masterchef-spain
+2017-02-21 13:29:28,184 - pordedelog - [ERROR] - (1062, "Duplicate entry '/tvshow/masterchef-spain' for key 'serie'")
+2017-02-21 13:29:28,240 - pordedelog - [DEBUG] - /serie/supergirl
+2017-02-21 13:29:28,268 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/supergirl' for key 'serie'")
+2017-02-21 13:29:28,322 - pordedelog - [DEBUG] - /serie/silicon-valley
+2017-02-21 13:29:28,350 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/silicon-valley' for key 'serie'")
+2017-02-21 13:29:28,429 - pordedelog - [DEBUG] - /serie/black-mirror
+2017-02-21 13:29:28,457 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/black-mirror' for key 'serie'")
+2017-02-21 13:29:28,509 - pordedelog - [DEBUG] - /serie/dark-matter
+2017-02-21 13:29:28,537 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/dark-matter' for key 'serie'")
+2017-02-21 13:29:28,594 - pordedelog - [DEBUG] - /serie/game-of-thrones
+2017-02-21 13:29:28,622 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/game-of-thrones' for key 'serie'")
+2017-02-21 13:29:28,676 - pordedelog - [DEBUG] - /serie/el-ministerio-del-tiempo
+2017-02-21 13:29:28,704 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/el-ministerio-del-tiempo' for key 'serie'")
+2017-02-21 13:29:28,760 - pordedelog - [DEBUG] - /serie/daredevil
+2017-02-21 13:29:28,788 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/daredevil' for key 'serie'")
+2017-02-21 13:29:28,840 - pordedelog - [DEBUG] - /serie/how-to-get-away-with-murder
+2017-02-21 13:29:28,868 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/how-to-get-away-with-murder' for key 'serie'")
+2017-02-21 13:29:28,924 - pordedelog - [DEBUG] - /serie/black-ish
+2017-02-21 13:29:28,952 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/black-ish' for key 'serie'")
+2017-02-21 13:29:29,007 - pordedelog - [DEBUG] - /serie/the-mindy-project
+2017-02-21 13:29:29,035 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-mindy-project' for key 'serie'")
+2017-02-21 13:29:29,090 - pordedelog - [DEBUG] - /serie/sherlock
+2017-02-21 13:29:29,118 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/sherlock' for key 'serie'")
+2017-02-21 13:29:29,171 - pordedelog - [DEBUG] - /serie/the-americans-2013
+2017-02-21 13:29:29,199 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-americans-2013' for key 'serie'")
+2017-02-21 13:29:29,256 - pordedelog - [DEBUG] - /serie/marvels-agents-of-shield
+2017-02-21 13:29:29,284 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/marvels-agents-of-shield' for key 'serie'")
+2017-02-21 13:29:29,387 - pordedelog - [DEBUG] - /serie/transparent
+2017-02-21 13:29:29,415 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/transparent' for key 'serie'")
+2017-02-21 13:29:29,473 - pordedelog - [DEBUG] - /serie/shameless-us
+2017-02-21 13:29:29,501 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/shameless-us' for key 'serie'")
+2017-02-21 13:29:29,547 - pordedelog - [DEBUG] - /serie/halt-and-catch-fire
+2017-02-21 13:29:29,575 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/halt-and-catch-fire' for key 'serie'")
+2017-02-21 13:29:29,626 - pordedelog - [DEBUG] - /serie/hannibal
+2017-02-21 13:29:29,654 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/hannibal' for key 'serie'")
+2017-02-21 13:29:29,712 - pordedelog - [DEBUG] - /serie/suits
+2017-02-21 13:29:29,740 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/suits' for key 'serie'")
+2017-02-21 13:29:29,792 - pordedelog - [DEBUG] - /serie/the-blacklist
+2017-02-21 13:29:29,821 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-blacklist' for key 'serie'")
+2017-02-21 13:29:29,873 - pordedelog - [DEBUG] - /serie/house-of-cards-us
+2017-02-21 13:29:29,901 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/house-of-cards-us' for key 'serie'")
+2017-02-21 13:29:29,966 - pordedelog - [DEBUG] - /serie/the-affair
+2017-02-21 13:29:29,994 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-affair' for key 'serie'")
+2017-02-21 13:29:30,067 - pordedelog - [DEBUG] - /serie/mom
+2017-02-21 13:29:30,096 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/mom' for key 'serie'")
+2017-02-21 13:29:30,147 - pordedelog - [DEBUG] - /serie/fargo
+2017-02-21 13:29:30,175 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/fargo' for key 'serie'")
+2017-02-21 13:29:30,228 - pordedelog - [DEBUG] - /serie/homeland
+2017-02-21 13:29:30,256 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/homeland' for key 'serie'")
+2017-02-21 13:29:30,311 - pordedelog - [DEBUG] - /serie/modern-family
+2017-02-21 13:29:30,339 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/modern-family' for key 'serie'")
+2017-02-21 13:29:30,391 - pordedelog - [DEBUG] - /serie/sons-of-anarchy
+2017-02-21 13:29:30,419 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/sons-of-anarchy' for key 'serie'")
+2017-02-21 13:29:30,493 - pordedelog - [DEBUG] - /serie/the-big-bang-theory
+2017-02-21 13:29:30,521 - pordedelog - [ERROR] - (1062, "Duplicate entry '/serie/the-big-bang-theory' for key 'serie'")

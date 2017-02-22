@@ -1,0 +1,13 @@
+2017-02-20 14:14:19,497 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:25:04,662 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:25:14,897 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:29:33,591 - pordedelog - [ERROR] - global name 'instancia' is not defined
+2017-02-20 14:30:04,412 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:30:51,753 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:57:24,821 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:58:34,911 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-20 14:58:42,896 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=5)
+2017-02-21 12:19:38,386 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=10)
+2017-02-21 12:19:52,166 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=10)
+2017-02-21 16:03:00,082 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=10)
+2017-02-21 16:11:25,113 - pordedelog - [ERROR] - HTTPConnectionPool(host='www.pordede.com', port=80): Read timed out. (read timeout=10)
