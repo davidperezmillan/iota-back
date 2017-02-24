@@ -211,7 +211,7 @@ def getEnlace3(enlace):
 def add(instancia):
     try:
         logger.info(repr(instancia))
-        x.execute("""INSERT INTO enlaces(episode,type,link) VALUES (%d,%d,'%s')""" %(instancia.episode,instancia.type, instancia.link))
+        x.execute("""INSERT INTO enlaces(episode,type,link,actualizacion) VALUES (%d,%d,'%s', '%s' )""" %(instancia.episode,instancia.type, instancia.link, time.strftime('%Y-%m-%d %H:%M:%S')))
         conn.commit()
     except Exception, e:
         logger.error( str(e))
