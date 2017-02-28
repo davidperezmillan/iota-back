@@ -225,8 +225,10 @@ def filterAndSort(links):
         if (len(divsIdiomas)>0):
             sIdioma = divsIdiomas[0].getText().strip()
             if (not sIdioma):
-                logger.debug(link['href'])
-                myLinks.append(link)
+                logger.debug("el valor %d es mayor que 0 : %s" %((int(link['data-value']), (link['data-value']>0))))
+                if (int(link['data-value'])>0):
+                    logger.debug("Add %s ???" %(link['href']))
+                    myLinks.append(link)
         
     myLinks.sort(key=lambda l: l['data-value'], reverse=True)
     logger.debug("Numero de registros encontrados %d" %(len(myLinks)))
@@ -239,9 +241,9 @@ def filterAndSort(links):
 
 if __name__ == '__main__':
     if (onlyLogin()):
-        nproc=10
+        nproc=20
         #getSerie(nproc);
-        getSerie(10, sys.argv[1] if len(sys.argv)>= 2 else None)
+        getSerie(nproc, sys.argv[1] if len(sys.argv)>= 2 else None)
 
         
     
