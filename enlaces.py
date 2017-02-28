@@ -241,7 +241,7 @@ def filterAndSort(links):
 
 if __name__ == '__main__':
     if (onlyLogin()):
-        nproc=20
+        nproc=10
         #getSerie(nproc);
         getSerie(nproc, sys.argv[1] if len(sys.argv)>= 2 else None)
 
