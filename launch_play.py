@@ -67,7 +67,7 @@ def login():
         data = ElementTree.fromstring(response.content)
         sid=data.find("UserInfo/Sid").text
         
-    except Exception, e:
+    except Exception as e:
         logger.error(str(e))
         
     logger.debug("End login %s" %(sid))
@@ -103,7 +103,7 @@ def capitulos():
                     add([id,link])
             
             
-    except Exception, e:
+    except Exception as e:
         logger.error(str(e))      
   
     logger.debug("End Capitulos")
@@ -127,7 +127,7 @@ def getEnlaces(idcap):
         data = ElementTree.fromstring(response.content)
         itemResponse = searchandfilter(data)
         
-    except Exception, e:
+    except    Exception as e:
         logger.error(str(e))
     
     logger.debug("End enlaces return : %s" %(itemResponse))    
@@ -146,7 +146,7 @@ def searchandfilter(data):
                     if (itemResponse is None or int(itemResponse.find("Rating").text)<int(item.find("Rating").text)):
                         itemResponse = item
             
-    except Exception, e:
+    except    Exception as e:
         logger.error(str(e))
 
     logger.info("End searchandfilter return : %s -- %s" %(itemResponse.find("Url").text.strip(), itemResponse.find("Rating").text))    
@@ -164,7 +164,7 @@ def find4Cap(item):
         x.execute("SELECT id FROM temporadas where serie like '%s' and season = '%s' and episode = '%s'" %(indicador[0],indicador[1],indicador[2]))
         res = x.fetchall()
         idEpisode = res[0][0]
-    except Exception, e:
+    except    Exception as e:
         logger.error( str(e))
         conn.rollback()
     
@@ -178,7 +178,7 @@ def add(instancia):
         x.execute("""INSERT INTO enlaces(episode,type,link,actualizacion) VALUES (%d,%d,'%s','%s' )""" %(instancia[0],99, instancia[1], time.strftime('%Y-%m-%d %H:%M:%S')))
         logger.info("ADD {} -- {}".format(instancia[1],time.strftime('%Y-%m-%d %H:%M:%S')))
         conn.commit()
-    except Exception, e:
+    except    Exception as e:
         logger.error( str(e))
         conn.rollback()
     
@@ -205,7 +205,7 @@ def notificaciones():
         for item in items:
             logger.info("%s -- %s  -- %s" %(item.find("Title").text,item.find("Text").text, item.find("Viewed").text))
         
-    except Exception, e:
+    except    Exception as e:
         logger.error(str(e))    
 
 '''    
